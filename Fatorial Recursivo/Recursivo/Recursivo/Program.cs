@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Recursivo
+namespace Fatorial
 {
 
 	class MainClass

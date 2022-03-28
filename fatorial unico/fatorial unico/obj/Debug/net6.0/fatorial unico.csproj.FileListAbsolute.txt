@@ -1,0 +1,15 @@
+C:\Users\Lucas Origuela\Desktop\fatorial\fatorial unico\fatorial unico\bin\Debug\net6.0\fatorial unico.exe
+C:\Users\Lucas Origuela\Desktop\fatorial\fatorial unico\fatorial unico\bin\Debug\net6.0\fatorial unico.deps.json
+C:\Users\Lucas Origuela\Desktop\fatorial\fatorial unico\fatorial unico\bin\Debug\net6.0\fatorial unico.runtimeconfig.json
+C:\Users\Lucas Origuela\Desktop\fatorial\fatorial unico\fatorial unico\bin\Debug\net6.0\fatorial unico.dll
+C:\Users\Lucas Origuela\Desktop\fatorial\fatorial unico\fatorial unico\bin\Debug\net6.0\fatorial unico.pdb
+C:\Users\Lucas Origuela\Desktop\fatorial\fatorial unico\fatorial unico\obj\Debug\net6.0\fatorial unico.csproj.AssemblyReference.cache
+C:\Users\Lucas Origuela\Desktop\fatorial\fatorial unico\fatorial unico\obj\Debug\net6.0\fatorial unico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas Origuela\Desktop\fatorial\fatorial unico\fatorial unico\obj\Debug\net6.0\fatorial unico.AssemblyInfoInputs.cache
+C:\Users\Lucas Origuela\Desktop\fatorial\fatorial unico\fatorial unico\obj\Debug\net6.0\fatorial unico.AssemblyInfo.cs
+C:\Users\Lucas Origuela\Desktop\fatorial\fatorial unico\fatorial unico\obj\Debug\net6.0\fatorial unico.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Origuela\Desktop\fatorial\fatorial unico\fatorial unico\obj\Debug\net6.0\fatorial unico.dll
+C:\Users\Lucas Origuela\Desktop\fatorial\fatorial unico\fatorial unico\obj\Debug\net6.0\refint\fatorial unico.dll
+C:\Users\Lucas Origuela\Desktop\fatorial\fatorial unico\fatorial unico\obj\Debug\net6.0\fatorial unico.pdb
+C:\Users\Lucas Origuela\Desktop\fatorial\fatorial unico\fatorial unico\obj\Debug\net6.0\fatorial unico.genruntimeconfig.cache
+C:\Users\Lucas Origuela\Desktop\fatorial\fatorial unico\fatorial unico\obj\Debug\net6.0\ref\fatorial unico.dll
